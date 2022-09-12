@@ -1,0 +1,207 @@
+file,predicted name,confidence
+aa1.jpg,cautleya spicata,0.93
+aa12.jpg,sweet william,0.43
+aa11.jpg,gazania,0.92
+aa10.jpg,tree poppy,1.0
+aa14.jpg,rose,0.89
+aa15.jpg,spear thistle,0.3
+aa13.jpg,water lily,0.97
+aa9.jpg,japanese anemone,0.52
+aa3.jpg,orange dahlia,0.74
+aa17.jpg,passion flower,1.0
+aa19.jpg,toad lily,1.0
+aa5.jpg,primula,0.52
+aa7.jpg,cape flower,0.4
+aa6.jpg,bee balm,0.3
+aa4.jpg,japanese anemone,0.53
+ab42.jpg,lotus lotus,0.62
+aa8.jpg,petunia,0.75
+aa2.jpg,japanese anemone,0.95
+ab43.jpg,garden phlox,0.63
+aa20.jpg,anthurium,1.0
+aa16.jpg,morning glory,0.9
+aa18.jpg,water lily,0.94
+ab41.jpg,bromelia,0.49
+ab49.jpg,tree poppy,0.97
+ab48.jpg,buttercup,1.0
+ab47.jpg,black-eyed susan,0.4
+ab55.jpg,lenten rose,0.27
+ab52.jpeg,wild pansy,1.0
+ab53.jpeg,primula,0.92
+ab57.jpg,gaura,0.71
+ab56.jpg,bishop of llandaff,0.52
+ab46.jpg,primula,0.56
+ab51.jpg,petunia,0.96
+ab50.jpg,common dandelion,0.9
+ab45.jpg,monkshood,0.93
+ab54.jpg,sunflower,1.0
+ab44.jpg,poinsettia,1.0
+ac16.jpg,globe-flower,0.73
+ac18.jpg,king protea,0.77
+ab60.jpg,carnation,0.99
+ab59.jpg,english marigold,0.94
+ac11.jpg,sweet pea,0.45
+ac13.jpg,gaura,0.91
+ac20.jpg,frangipani,0.91
+ac2.jpg,hard-leaved pocket orchid,0.91
+ac1.jpg,petunia,0.9
+ac10.jpg,cyclamen,0.73
+ab58.jpg,petunia,0.93
+ac19.jpg,cyclamen,0.77
+ac15.jpg,yellow iris,0.94
+ac12.jpg,tree poppy,0.99
+ac14.jpg,spear thistle,1.0
+ac17.jpg,purple coneflower,1.0
+au27.jpg,mexican petunia,0.47
+au23.jpeg,fritillary,1.0
+ac5.jpg,bishop of llandaff,0.52
+au21.jpeg,columbine,0.61
+ac7.jpg,petunia,0.41
+ac6.jpg,tiger lily,1.0
+ac4.jpg,ruby-lipped cattleya,0.54
+ac9.jpg,monkshood,0.51
+au25.jpg,grape hyacinth,1.0
+au31.jpg,carnation,0.99
+au34.jpg,windflower,0.5
+au28.jpg,stemless gentian,0.98
+au32.jpg,garden phlox,0.93
+au24.jpeg,red ginger,0.96
+au33.jpg,love in the mist,1.0
+ac8.jpg,bird of paradise,0.93
+ac3.jpg,grape hyacinth,0.49
+au22.jpeg,pincushion flower,0.99
+au26.jpg,mallow,0.75
+au42.jpeg,daffodil,0.93
+au49.jpeg,oxeye daisy,0.99
+au46.jpeg,wallflower,0.98
+au47.jpeg,wallflower,0.44
+au51.jpeg,petunia,0.48
+au55.jpeg,sweet william,0.73
+au36.jpg,ruby-lipped cattleya,1.0
+au45.jpg,bolero deep blue,0.97
+au37.jpg,cape flower,1.0
+au39.jpg,siam tulip,0.97
+au40.jpg,lenten rose,0.94
+au35.jpg,alpine sea holly,1.0
+au48.jpeg,buttercup,1.0
+au50.jpeg,common dandelion,0.92
+au44.jpeg,poinsettia,1.0
+au53.jpeg,primula,0.3
+au43.jpeg,ruby-lipped cattleya,0.4
+au41.jpg,barbeton daisy,0.98
+au38.jpg,great masterwort,0.53
+au52.jpeg,wild pansy,0.97
+au54.jpeg,tree poppy,0.63
+gc16.jpeg,garden phlox,0.41
+gc20.jpg,gaura,0.25
+gc18.jpg,cape flower,0.69
+gc12.jpg,alpine sea holly,0.35
+gc11.png,foxglove,0.62
+gc1.jpg,blackberry lily,1.0
+au60.jpeg,barbeton daisy,0.93
+gc13.jpg,bee balm,0.58
+au56.jpeg,bishop of llandaff,1.0
+au59.jpeg,rose,0.95
+gc19.jpg,orange dahlia,0.62
+au58.jpeg,garden phlox,0.86
+gc10.jpg,bougainvillea,1.0
+gc14.jpg,bromelia,0.79
+gc22.jpg,balloon flower,0.97
+gc17.jpg,cape flower,0.55
+gc15.jpeg,bougainvillea,0.96
+gc2.jpg,trumpet creeper,0.94
+gc21.jpg,toad lily,0.87
+au57.jpeg,gaura,1.0
+mh23.jpg,fritillary,1.0
+mh24.jpg,cautleya spicata,0.87
+gc23.jpg,king protea,0.7
+mh31.jpg,carnation,0.97
+gc5.jpg,blanket flower,0.99
+gc7.jpg,blackberry lily,1.0
+gc24.jpg,bromelia,0.65
+mh25.jpg,grape hyacinth,1.0
+gc8.jpg,clematis,1.0
+mh27.jpg,sweet william,0.5
+mh28.jpg,clematis,0.99
+gc6.jpg,carnation,0.86
+gc4.jpg,trumpet creeper,0.94
+gc25.jpg,mallow,0.58
+gc3.jpeg,bromelia,0.99
+mh22.jpg,pincushion flower,0.98
+gc9.jpg,cyclamen,0.42
+mh30.jpg,sweet william,0.69
+mh26.jpg,corn poppy,0.96
+mh21.jpg,fire lily,0.53
+mh29.jpg,artichoke,1.0
+mh40.jpg,hippeastrum,0.47
+mh32.jpg,garden phlox,0.98
+mhm12.jpg,geranium,0.6
+mhm1.jpg,cautleya spicata,0.96
+mhm13.jpg,water lily,1.0
+mhm17.jpg,passion flower,0.88
+mh35.jpg,alpine sea holly,1.0
+mhm11.jpg,gazania,0.92
+mhm19.jpg,toad lily,1.0
+mh36.jpg,ruby-lipped cattleya,1.0
+mhm15.jpg,grape hyacinth,1.0
+mh33.jpg,love in the mist,1.0
+mhm14.jpg,rose,1.0
+mhm10.jpg,tree poppy,0.8
+mh39.jpg,magnolia,0.62
+mh37.jpg,cape flower,1.0
+mhm18.jpg,lotus lotus,0.33
+mhm16.jpg,morning glory,0.87
+mh38.jpg,great masterwort,0.99
+mh34.jpg,mexican aster,0.99
+mhm9.jpg,japanese anemone,0.54
+mhm7.jpg,lotus lotus,0.85
+mo10.jpg,alpine sea holly,0.98
+mhm8.jpg,bolero deep blue,0.55
+mo1.jpg,petunia,0.78
+mo13.jpg,hard-leaved pocket orchid,0.87
+mo11.jpg,geranium,0.99
+mhm4.jpg,silverbush,1.0
+mhm20.jpg,fire lily,0.96
+mhm5.jpg,english marigold,0.67
+mhm2.jpg,japanese anemone,0.89
+mhm6.jpg,barbeton daisy,0.79
+mo12.jpg,colt's foot,1.0
+mhm3.jpg,sunflower,0.99
+mo2.jpg,hard-leaved pocket orchid,1.0
+mo9.jpg,monkshood,0.63
+mo15.jpg,wallflower,0.69
+mo14.jpg,spear thistle,1.0
+mo3.jpg,snapdragon,0.96
+mo20.jpg,moon orchid,0.37
+mo19.jpg,cyclamen,0.83
+mo18.jpg,cape flower,0.9
+mo16.jpg,snapdragon,0.68
+mo8.jpg,bird of paradise,1.0
+mo17.jpg,clematis,0.33
+mo7.jpg,moon orchid,0.88
+mo5.jpg,english marigold,0.78
+mo4.jpg,sword lily,0.94
+nic1.jpg,anthurium,0.59
+nic10.jpg,columbine,0.94
+mo6.jpg,californian poppy,0.97
+nic16.jpg,garden phlox,0.95
+nic12.jpg,clematis,0.92
+nic17.jpg,lenten rose,0.93
+nic21.jpg,blanket flower,1.0
+nic18.jpg,pink primrose,0.78
+nic23.jpg,blackberry lily,1.0
+nic20.jpg,ball moss,0.64
+nic14.jpg,bee balm,0.6
+nic2.jpg,frangipani,0.99
+nic22.jpg,anthurium,0.67
+nic15.jpg,foxglove,1.0
+nic11.jpg,bromelia,0.64
+nic19.jpg,petunia,0.46
+nic13.jpg,bee balm,1.0
+nic7.jpg,clematis,0.81
+nic3.jpg,clematis,0.79
+nic6.jpg,desert-rose,0.89
+nic5.jpg,columbine,1.0
+nic4.jpg,hibiscus,0.95
+nic8.jpg,cyclamen,0.62
+nic9.jpg,magnolia,0.86
