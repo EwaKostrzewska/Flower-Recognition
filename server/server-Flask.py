@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, jsonify
 import util
 
 app = Flask(__name__)
@@ -6,7 +6,9 @@ app = Flask(__name__)
 @app.route('/predict', methods=['POST'])
 def predict():
     image = request.files['file']
-    response = util.predict_name(image)
+    response = jsonify(util.predict_name(image))
+
+    response.headers.add('Access-Control-Allow-Origin', '*')
 
     return response
 
