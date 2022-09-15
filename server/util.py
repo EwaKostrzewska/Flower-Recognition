@@ -48,7 +48,7 @@ def predict_name(path):
     confidence = predictions[idx]
 
     return {
-        'flower_name': flower_name,
+        'flower_name': flower_name.title(),
         'confidence': float(confidence)
     }
 
