@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Flower Recognition</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="img-bg"></div>
+
+    <div class="bg-text">
+        <h1>What flower is this?</h1>
+    </div>
+
+
+    <form class="form" id="dropzone" enctype="multipart/form-data" method="post">
+        <div class="drop-zone">
+            <span class="drop-zone__prompt">Drop file here or click to upload</span>
+            <input id="fileUpload" name="file" class="drop-zone__input" type="file" accept="image/*">
+        </div>
+        <button class="submit" type="submit" onclick="onClickedPredictName(); return false;">Submit</button>
+        <div id="uiPredictedName" class="result">  </div>
+    </form>
+
+
+    <script src="./app.js"></script>
+
+</body>
+</html>
