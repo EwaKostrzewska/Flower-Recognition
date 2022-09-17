@@ -15,4 +15,4 @@ def predict():
 
 if __name__ == "__main__":
     util.load_saved_artifacts()
-    app.run()
+    app.run(host="localhost", port=8000)

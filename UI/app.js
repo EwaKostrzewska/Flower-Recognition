@@ -88,8 +88,7 @@ function onClickedPredictName() {
         console.log("File name: " + image_file.name)
     
         if (image_file.type.startsWith("image/")) {
-            // const url = "http://127.0.0.1:5000/predict";    // Flask server
-            const url = "http://localhost:8000/predict";    // FastAPI server
+            const url = "http://localhost:8000/predict";
             
             let formData = new FormData();
             formData.append('file', image_file);
