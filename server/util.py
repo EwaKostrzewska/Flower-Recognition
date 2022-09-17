@@ -4,7 +4,6 @@ import numpy as np
 import json
 import pickle
 from PIL import Image
-import matplotlib.pyplot as plt
 
 _flower_labels = {}
 _class_names = []
