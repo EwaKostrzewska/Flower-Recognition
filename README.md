@@ -42,6 +42,6 @@ python server-FastAPI.py
 * Pillow for reading image files
 * Flask/FastAPI for http server 
 * HTML/CSS/JavaScript for creating User Interface
-* Jupyter notebook and Visual Studio Code as IDE
+* Google Colab, Jupyter notebook and Visual Studio Code as IDE
 * Postman for testing API
 
